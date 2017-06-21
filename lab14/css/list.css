@@ -1,0 +1,13 @@
+.nav_content{background-image: url(images/cg.jpg);width:1200px;height:40px;}
+			.nav_search{float:right;width:200px;height:21px;background-color:#f8f5ee;margin-top:10px;margin-right: 20px;}
+			
+			.sousuokuang{width:140px;height:21px;border:none;}
+			
+			.button{width:44px;height:21px;background-color:#000;color:#fff;border:1px solid #f8f5ee;}
+			.nav_content{width:1200px;font-weight:bolder;color:#fff;height:40px;padding-top:12px;margin-left:0px;float:left;}
+			
+			.nav_content a{color:#fff;font-size: 16px;height: 24px;line-height: 24px;text-decoration:none;}
+			
+			.nav_content a:hover{color:#f9f603;text-decoration:none;}
+			
+			.shouye{color:#f9f603;}
